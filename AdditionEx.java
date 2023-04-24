@@ -1,4 +1,4 @@
-public class Additionex 
+public class AdditionEx 
 {  
 public static void main(String args[])   
 {  
